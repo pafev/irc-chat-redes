@@ -1,0 +1,1 @@
+canais = {'Amizades': 0, 'Animes': 0, 'Esportes': 0, 'Rock': 0, 'Relacionamentos': 0}
